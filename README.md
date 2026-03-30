@@ -44,8 +44,8 @@ This project analyzes Audible dataset using Power BI. The raw dataset contained 
 Download the file and open in Power BI Desktop.
 
 ## 📸 Screenshots
-![Dashboard 1](Dashboard Screenshot 1.png)
+![Dashboard 1](Dashboard%20Screenshot%201.png)
 
-![Dashboard 2](Dashboard Screenshot 2.png)
+![Dashboard 2](Dashboard%20Screenshot%202.png)
 
 
