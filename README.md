@@ -29,11 +29,12 @@ This project analyzes Audible dataset using Power BI. The raw dataset contained 
 * Category analysis
 * Trend analysis
 
-## 📈 Key Insights
+## 📊 Key Insights
 
-* Certain categories dominate the dataset
-* Trends show variation across different segments
-* Clean data improved accuracy of insights
+- A significant portion of the dataset is concentrated in a few dominant categories, indicating strong user preference trends.
+- Certain categories consistently outperform others, suggesting higher popularity and engagement.
+- Trends vary across different segments, showing that user interest is not evenly distributed.
+- Data cleaning (removal of duplicates and null values) significantly improved the accuracy and reliability of analysis.
 
 ## 📁 File
 
